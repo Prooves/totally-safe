@@ -1,4 +1,4 @@
-package main
+package github.com/prooves/totally-safe
 
 import (
 	"fmt"
